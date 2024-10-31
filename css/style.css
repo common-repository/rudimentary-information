@@ -1,0 +1,78 @@
+input[type="text"]:focus {
+    width: 100%;
+}
+
+.widget-area .theme-details table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.widget-area .theme-details tr:nth-of-type(odd) {
+    background: #eeeeee;
+}
+
+.widget-area .theme-details th {
+    background: #333333;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.widget-area .theme-details th {
+    border: 0.063em solid #cccccc;
+    text-align: left;
+    padding: 0.438em;
+    width: 40%;
+} 
+
+.widget-area .theme-details td {
+    border: 0.063em solid #cccccc;
+    text-align: left;
+    padding: 0.438em;
+    width: 60%;
+}
+
+.widget-area .theme-tags table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.widget-area .theme-tags tr:nth-of-type(odd) {
+    background: #eeeeee;
+}
+
+.widget-area .theme-tags th {
+    background: #333333;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.widget-area .theme-tags th {
+    border: 0.063em solid #cccccc;
+    text-align: center;
+    padding: 0.438em;
+    width: 10%;
+} 
+
+.widget-area .theme-tags td {
+    border: 0.063em solid #cccccc;
+    text-align: left;
+    padding: 0.438em;
+    width: 90%;
+}
+
+.download-preview {
+    padding: 1.125em;
+    text-align: center;
+}
+
+.download-preview-click {
+    background: #3d627d;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 1.125em;
+    margin: 0 1em;
+}
+
+.download-preview-click:hover {
+    color: #ffffff;
+}
